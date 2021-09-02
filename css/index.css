@@ -1,3 +1,12 @@
+a:not(.btn) {
+  color: #f89fa0;
+  border-bottom: none;
+}
+a:not(.btn):hover {
+  color: #ff7a7a;
+  font-weight: bold;
+  text-decoration: underline;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
@@ -501,6 +510,8 @@ blockquote p {
     width: 82.5%;
     float: right;
     margin-right: 0;
+    -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
+    box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
   }
   .page .page-title {
     padding: 0 3.6rem;
@@ -711,6 +722,8 @@ blockquote p {
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
+    -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
+    box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
   }
   .side-card .card-wrap {
     padding: 10px 10px 10px 17px;
