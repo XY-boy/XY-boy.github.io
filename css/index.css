@@ -549,7 +549,7 @@ blockquote p {
   border-radius: 50%;
 }
 .author-discrip {
-  display: table-cell;
+  display: block;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 15px;
