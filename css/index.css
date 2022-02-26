@@ -522,7 +522,7 @@ blockquote p {
 }
 .side-card {
   clear: both;
-  margin-bottom: 1.6rem;
+  margin-bottom: 3.2rem;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
