@@ -534,7 +534,7 @@ blockquote p {
 }
 .side-card p,
 .side-card li {
-  font-size: 1.4rem;
+  font-size: 2.8rem;
   line-height: 1;
 }
 .author-avatar {
@@ -554,14 +554,14 @@ blockquote p {
   vertical-align: top;
   padding-left: 0px;
   padding-right: 0px;
-  line-height: 1;
+  line-height: 1.5;
 }
 .author-discrip h3 {
   margin: 0px;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .author-discrip .author-bio {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   margin: 0.3rem 0;
 }
 .author-links {
@@ -573,7 +573,7 @@ blockquote p {
 }
 .author-links li {
   white-space: nowrap;
-  margin-bottom: 0.5em;
+  margin-bottom: 0em;
 }
 .author-links a {
   margin-bottom: 5px;
@@ -581,7 +581,7 @@ blockquote p {
   padding-top: 2px;
   padding-bottom: 2px;
   color: inherit;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   text-decoration: none;
 }
 .author-links button {
@@ -626,7 +626,7 @@ blockquote p {
   width: 115px;
   margin-top: 15px;
   padding-top: 8px;
-  padding-left: 10px;
+  padding-left: 0px;
   list-style-type: none;
   border: 1px solid #f2f3f3;
   border-radius: 4px;
@@ -650,7 +650,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .social-icons a {
-  font-size: 1.7rem;
+  font-size: 2.5rem;
 }
 .social-icons li {
   display: inline-block;
