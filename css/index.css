@@ -522,12 +522,12 @@ blockquote p {
 }
 .side-card {
   clear: both;
-  margin-bottom: 3.2rem;
+  margin-bottom: 1.6rem;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
 .side-card .card-wrap {
-  padding-left: 10px;
+  padding-left: 50px;
 }
 .side-card img {
   width: 100%;
