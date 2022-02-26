@@ -527,7 +527,7 @@ blockquote p {
   transform: translate3d(0, 0, 0);
 }
 .side-card .card-wrap {
-  padding-left: 50px;
+  padding-left: 10px;
 }
 .side-card img {
   width: 100%;
@@ -545,7 +545,7 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
+  max-width: 210px;
   border-radius: 50%;
 }
 .author-discrip {
@@ -564,7 +564,7 @@ blockquote p {
   margin: 0.3rem 0;
 }
 .author-links {
-  display: table-cell;
+  display: block;
   position: relative;
   vertical-align: top;
   z-index: 10;
