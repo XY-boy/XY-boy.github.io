@@ -538,10 +538,10 @@ blockquote p {
   line-height: 1.5;
 }
 .author-avatar {
-  display: block;
+  display: table-cell;
   vertical-align: top;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
 }
 .author-avatar img {
   width: 100%;
