@@ -538,7 +538,7 @@ blockquote p {
   line-height: 1.5;
 }
 .author-avatar {
-  display: table-cell;
+  display: block;
   vertical-align: top;
   width: 80px;
   height: 80px;
