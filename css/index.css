@@ -540,8 +540,8 @@ blockquote p {
 .author-avatar {
   display: block;
   vertical-align: top;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 }
 .author-avatar img {
   width: 100%;
