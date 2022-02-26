@@ -534,14 +534,14 @@ blockquote p {
 }
 .side-card p,
 .side-card li {
-  font-size: 2.8rem;
+  font-size: 1.4rem;
   line-height: 1.5;
 }
 .author-avatar {
   display: table-cell;
   vertical-align: top;
-  width: 40px;
-  height: 40px;
+  width: 80px;
+  height: 80px;
 }
 .author-avatar img {
   width: 100%;
