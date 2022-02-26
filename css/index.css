@@ -530,7 +530,7 @@ blockquote p {
   padding-left: 10px;
 }
 .side-card img {
-  width: 200%;
+  width: 100%;
 }
 .side-card p,
 .side-card li {
@@ -540,13 +540,13 @@ blockquote p {
 .author-avatar {
   display: block;
   vertical-align: top;
-  width: 80px;
-  height: 80px;
+  width: 160px;
+  height: 160px;
 }
 .author-avatar img {
   width: 100%;
-  max-width: 210px;
-  border-radius: 50%;
+  max-width: 310px;
+  border-radius: 100%;
 }
 .author-discrip {
   display: block;
