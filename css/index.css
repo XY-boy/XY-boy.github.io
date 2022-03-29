@@ -581,7 +581,7 @@ blockquote p {
   padding-top: 2px;
   padding-bottom: 2px;
   color: inherit;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
 }
 .author-links button {
@@ -650,7 +650,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .social-icons a {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
 }
 .social-icons li {
   display: inline-block;
