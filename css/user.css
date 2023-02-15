@@ -1,9 +1,0 @@
-a:not(.btn) {
-  color: #f89fa0;
-  border-bottom: none;
-}
-a:not(.btn):hover {
-  color: #ff7a7a;
-  font-weight: bold;
-  text-decoration: underline;
-}
