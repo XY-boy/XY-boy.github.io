@@ -446,7 +446,7 @@ table.imgtable, table.imgtable td {
 /* Publication */
 p.pub_title {
 	font-size: 16px;
-	font-weight: bold;
+	/*font-weight: bold; 文章标题加粗*/
 	margin-bottom: 4px;
 }
 
