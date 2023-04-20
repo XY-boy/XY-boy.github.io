@@ -70,10 +70,16 @@ table#tlayout {
     background: white;
 }
 
+@font-face {
+  font-family: myFont;
+  src: local("Palatino Linotype");
+  unicode-range: U+30-39;
+}/*from zhangqiang*/
+
 body {
 	background: white;
 	/*font-family: Georgia, serif; 改变字体*/
-	font-family: GeorgiaPro, serif;
+        font-family: myFont, Georgia;
 	padding-bottom: 8px;
 	margin: 0;
 }
