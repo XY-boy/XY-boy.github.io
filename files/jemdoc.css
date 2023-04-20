@@ -72,7 +72,8 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	/*font-family: Georgia, serif; 改变字体*/
+	font-family: "宋体",Simsun;
 	padding-bottom: 8px;
 	margin: 0;
 }
