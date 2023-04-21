@@ -73,7 +73,7 @@ table#tlayout {
 body {
 	background: white;
 	/*font-family: Georgia, serif; 改变字体*/
-        font-family: "Calibri", serif;
+        font-family: "Times New Roma", serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -214,7 +214,7 @@ h3 {
 }
 
 p {
-	width: 100%;
+	width: 110%;
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
 	padding: 0;
@@ -446,15 +446,15 @@ table.imgtable, table.imgtable td {
 
 /* Publication */
 p.pub_title {
-	font-size: 20px;
+	font-size: 16px;
 	/*font-weight: bold; 文章标题加粗*/
 	margin-bottom: 4px;
 }
 
 p.pub_author{
-	font-size: 16px	
+	font-size: 14px	
 }
 
 p.pub_link{
-	font-size: 16px	
+	font-size: 14px	
 }
