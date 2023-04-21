@@ -73,7 +73,7 @@ table#tlayout {
 body {
 	background: white;
 	/*font-family: Georgia, serif; 改变字体*/
-        font-family: "Times New Roman", serif;
+        font-family: "Palatino Linotype", "Georgia";
 	padding-bottom: 8px;
 	margin: 0;
 }
