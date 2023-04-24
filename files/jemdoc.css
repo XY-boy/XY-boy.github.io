@@ -72,8 +72,8 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: "Palatino Linotype", serif;/* 改变字体 */
-        /*font-family: "Palatino Linotype", "Georgia", "Arial";*/
+	font-family: "Palatino Linotype", serif; /* 改变字体 */
+        /* font-family: "Palatino Linotype", "Georgia", "Arial"; */
 	padding-bottom: 8px;
 	margin: 0;
 }
