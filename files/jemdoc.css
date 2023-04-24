@@ -69,10 +69,10 @@ table#tlayout {
     border-collapse: separate;
     background: white;
 }
-/* "Palatino Linotype", "Georgia", "Arial" */
+/* "Palatino Linotype", "Georgia", "Arial", "Times New Roman"*/
 body {
 	background: white;
-	font-family: Arial, serif;
+	font-family: Times New Roman, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
