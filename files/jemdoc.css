@@ -119,6 +119,7 @@ tt {
 num {
 	font-size: 100%;
 	font-family: Times New Roman, monospace;
+	display:inline-block;
 }
 
 pre, tt {
