@@ -72,7 +72,7 @@ table#tlayout {
 /* "Palatino Linotype", "Georgia", "Arial", "Times New Roman"*/
 body {
 	background: white;
-	font-family: Times New Roman, serif;
+	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
