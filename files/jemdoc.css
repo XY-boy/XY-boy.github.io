@@ -115,6 +115,11 @@ tt {
     /*background: #ffffdd;*/
 
 }
+/* 解决数字不齐线问题 */
+num {
+	font-size: 100%;
+	font-family: Times New Roman, monospace;
+}
 
 pre, tt {
 	font-size: 90%;
@@ -215,7 +220,7 @@ h3 {
 p {
 	width: 100%;
 	margin-top: 0.0em;
-	margin-bottom: 0.8em;
+	margin-bottom: 0.5em;
 	padding: 0;
 	line-height: 1.3;	
 }
