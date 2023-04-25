@@ -117,9 +117,10 @@ tt {
 }
 /* 解决数字不齐线问题 */
 num {
-	font-size: 100%;
+	font-size: 110%;
 	font-family: Times New Roman, monospace;
 	display:inline-block;
+	white-space:nowrap;
 }
 
 pre, tt {
