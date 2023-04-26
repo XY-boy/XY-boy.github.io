@@ -118,7 +118,7 @@ tt {
 /* 解决数字不齐线问题 */
 num {
 	font-size: 1.0em;
-	font-family: Times New Roman, monospace;
+	font-family: Times New Roman, serif;
 	display:inline-block;
 	white-space:nowrap;
 }
