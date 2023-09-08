@@ -416,6 +416,7 @@ img.proj_thumb {
 	border: 1px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
+	vertical-align: middle;
 }
 
 table {
