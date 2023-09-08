@@ -416,7 +416,6 @@ img.proj_thumb {
 	border: 1px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
-	vertical-align: top;
 }
 
 table {
@@ -425,11 +424,10 @@ table {
 }
 
 td {
-    padding: 2px;
+    padding: 0px;
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    vertical-align: top;
     border: 1px solid gray;
 }
 
@@ -449,13 +447,12 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
-    vertical-align: top;
 }
 
 
 /* Publication */
 p.pub_title {
-	font-size: 16px;
+	font-size: 14px;
 	/*font-weight: bold; 文章标题加粗*/
 	margin-bottom: 4px;
 }
