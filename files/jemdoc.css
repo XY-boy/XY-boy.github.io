@@ -416,7 +416,7 @@ img.proj_thumb {
 	border: 1px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
-	vertical-align: middle;
+	vertical-align: top;
 }
 
 table {
@@ -429,7 +429,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: top;
     border: 1px solid gray;
 }
 
@@ -449,7 +449,7 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 
