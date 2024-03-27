@@ -4,6 +4,6 @@ author = {Yi Xiao and Qiangqiang Yuan and Jiang He and Qiang Zhang and Jing Sun 
 journal = {International Journal of Applied Earth Observation and Geoinformation},
 volume = {108},
 pages = {102731},
-year = {2022}，
+year = {2022},
 publisher={Elsevier}
 }
