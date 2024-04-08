@@ -1,0 +1,9 @@
+@article{chen2024satellite,
+  title={Satellite video single object tracking: A systematic review and an oriented object tracking benchmark},
+  author={Chen, Yuzeng and Tang, Yuqi and Xiao, Yi and Yuan, Qiangqiang and Zhang, Yuwei and Liu, Fengqing and He, Jiang and Zhang, Liangpei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={210},
+  pages={212--240},
+  year={2024},
+  publisher={Elsevier}
+}
