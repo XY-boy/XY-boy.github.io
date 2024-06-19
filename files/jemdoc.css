@@ -465,6 +465,6 @@ p.pub_link{
 	font-size: 14px	
 }
 p.date { 
+	text-align: right;
 	display: inline-block;
-	white-space: nowrap; 
 }
