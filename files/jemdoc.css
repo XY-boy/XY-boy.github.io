@@ -465,5 +465,6 @@ p.pub_link{
 	font-size: 14px	
 }
 p.date { 
+	display: inline-block;
 	white-space: nowrap; 
 }
