@@ -464,7 +464,7 @@ p.pub_author{
 p.pub_link{
 	font-size: 14px	
 }
-p.date { 
+#date {
 	text-align: right;
 	display: inline-block;
 }
