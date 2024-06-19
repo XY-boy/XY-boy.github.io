@@ -464,3 +464,6 @@ p.pub_author{
 p.pub_link{
 	font-size: 14px	
 }
+p { 
+	white-space:nowrap; 
+}
