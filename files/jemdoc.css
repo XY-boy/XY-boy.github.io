@@ -467,4 +467,5 @@ p.pub_link{
 #date {
 	text-align: right;
 	display: inline-block;
+	white-space: nowrap;
 }
