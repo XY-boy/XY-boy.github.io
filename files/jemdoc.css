@@ -245,8 +245,8 @@ div#footer a {
 }
 
 div#footer-text {
-	float: left;
-	padding-bottom: 8px;
+	float: center;
+	padding-bottom: 10px;
 }
 
 ul, ol, dl {
