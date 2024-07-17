@@ -19,7 +19,8 @@
 	font-size: 110%;
 	/*font-weight: bolder;*/
 	padding: 0.25ex 1.5ex;
-	color: rgb(240,240,240);
+	/*color: rgb(240,240,240);*/
+	color: rgb(140,140,140);
 	text-decoration: none;
 	transition: .2s;
 }
