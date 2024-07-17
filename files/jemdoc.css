@@ -32,7 +32,8 @@
 }
 
 .menu a:visited {
-	color: rgb(240,240,240);
+	/*color: rgb(240,240,240);*/
+	color: rgb(140,140,240);
 	/*color: #9e9e9e;*/
 }
 
