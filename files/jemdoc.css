@@ -236,8 +236,8 @@ div#footer {
 	font-size: small;
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
-	padding-bottom: 8px;
-	margin-top: 4.0em;
+	padding-bottom: 4px;
+	margin-top: 2.0em;
 	color: #c0c0c0;
 }
 
@@ -247,7 +247,7 @@ div#footer a {
 
 div#footer-text {
 	align: center;
-	padding-bottom: 10px;
+	padding-bottom: 4px;
 }
 
 ul, ol, dl {
