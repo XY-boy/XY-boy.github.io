@@ -4,7 +4,8 @@
 
 .menu {
 	/* background-color: #527bbd; #224b8d 33BBFF*/
-	background-color: #527bbd;
+	background-color: rgb(250,0,255);
+	/*background-color: #527bbd;*/
     left: 0;
     top: 0;
     width: 100%;
