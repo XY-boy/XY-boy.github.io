@@ -129,7 +129,8 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	/* color: #224b8d; */
+	color: #1772d0;
 	text-decoration: none;
 }
 
