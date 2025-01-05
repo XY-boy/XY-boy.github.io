@@ -430,7 +430,7 @@ img.proj_thumb {
 	border: 1px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
-	border-radius: 10px;
+	border-radius: 10px;  /* 圆角效果 */
 }
 
 table {
