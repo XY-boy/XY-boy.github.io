@@ -427,7 +427,7 @@ img.eqwl {
 
 img.proj_thumb {
 	width: 180px;
-	border: 1px solid;
+	border: 2px solid;
 	border-color: #e0e0e0;
 	padding: 1px;
 	border-radius: 10px;  /* 圆角效果 */
